@@ -1,0 +1,12 @@
+{
+  "name": "rpa-web-python",
+  "version": "1.0.0",
+  "description": "Automatización de procesos robóticos en un navegador",
+  "main": "main.py",
+  "author": "Abel Suárez",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "start": "python main.py"
+  }
+}
